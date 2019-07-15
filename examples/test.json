@@ -1,0 +1,39 @@
+{
+  "key1": "value1", 
+  "key2": {
+    "has": "an", 
+    "object": "value"
+  }, 
+  "key3": {
+    "x": 2, 
+    "y": "3"
+  }, 
+  "key4": [
+    "array", 
+    "value", 
+    "with", 
+    1, 
+    "number"
+  ], 
+  "object": {
+    "field1": {
+      "enum": [
+        true, 
+        false
+      ]
+    }, 
+    "field2": {
+      "colorcode": [
+        {
+          "blue": 0
+        }, 
+        {
+          "red": 1
+        }, 
+        {
+          "green": 2
+        }
+      ]
+    }
+  }
+}
